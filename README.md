@@ -1,8 +1,8 @@
 # Portfolio
-My Portfolio
-4 sections 
-Profile
-Education
-Skills
-Projects
-Contact
+My Portfolio <br>
+4 sections <br>
+Profile<br>
+Education<br>
+Skills<br>
+Projects<br>
+Contact<br>
